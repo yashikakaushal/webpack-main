@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("hi I am other inside the second.js")})();
